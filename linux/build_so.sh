@@ -1,0 +1,1 @@
+gcc -shared /dev/null -o libida64.so -L /opt/ida-pro-9.0 -lida
